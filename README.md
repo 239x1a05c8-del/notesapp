@@ -100,21 +100,6 @@ Add Numbers API (JSON)
 POST /addNum
 Content-Type: application/json
 
-Example Request:
-
-{
-"num1": 10,
-"num2": 5
-}
-
-Example Response:
-
-{
-"num1": 10,
-"num2": 5,
-"sum": 15
-}
-
 IMPORTANT NOTES~
 
 Notes are stored in memory only.
